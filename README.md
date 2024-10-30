@@ -1,116 +1,119 @@
-# How to fit in at Neumann
+# 🎓 How to Fit In at Neumann János Technikum
 
-## Index
+## 📚 Index
 
-Hi! My name is ***Csongor*** and i'll will tell you how to fit in Neumann as a new Student...
+Hello! My name is **Csongor**, and in this document, I will share essential tips and insights on how to successfully integrate as a new student at Neumann János Technikum.
 
-## Purpose
+## 🎯 Purpose
 
-The purpose of this README, that is I'm also a freshman in Neumann soo it's just freshly updated tips and trick for those who are accepted or still waiting for their acceptation to Neumann.
+The purpose of this README is to provide newly accepted students or those awaiting acceptance to Neumann with updated and practical advice. As a freshman myself, I aim to offer a relatable perspective on the transition into this educational environment.
 
-## Warnings
+## ⚠️ Warnings
 
-This tips don't say that are they 100% accurate.
+Please note that while these tips are based on personal experiences and observations, they may not be universally applicable. Always consider your unique situation.
 
-## Functions
+## 📖 Functions
 
+This README serves several functions, including:
+- **Guidance**: Offering practical tips for settling into school life.
+- **Resources**: Providing information about school administration and contacts.
+- **Support**: Encouraging new students to seek help when needed.
 
+## 📋 Contents
 
-## Contents
+1. **🏫 Getting to Know the School**
+   - 🗺️ Familiarize Yourself with the Campus
+   - 📜 Understand School Policies
 
-## Troubleshooting
+2. **🤝 Building Connections**
+   - 👥 Making Friends
+   - 👨‍🏫 Engaging with Faculty
 
-## FAQ
+3. **🎓 Academic Success**
+   - 📖 Study Tips
+   - 📅 Homework Expectations
 
-* Should i study more?
-* Do i get more HomeWork?
+4. **🎉 Extracurricular Activities**
+   - 📅 Clubs and Organizations
+   - ⚽ Sports and Events
 
-## Contact Details
+5. **💬 Support Services**
+   - 🧑‍🏫 Counseling and Guidance
+   - 📚 Academic Help
 
-OM azonosító: 203058/007
+## 🛠️ Troubleshooting
 
-Intézménykód: 051404
+- **Issue**: Difficulty finding classrooms.
+  - **Solution**: Use the school map available at the school gate or the [NeuMap](https://drive.google.com/file/d/11PLdFJFdyoq9MllXNgAuhuq-XdByshMZ/view). Attend orientation sessions to familiarize yourself with the layout.
+  
+- **Issue**: Overwhelming homework load.
+  - **Solution**: Communicate with teachers about workload concerns. Develop a study schedule to manage tasks effectively.
 
-Cím: 1144 Budapest, Kerepesi út 124.
-Telefonszámunk: 06-70-502-1256
-E-mail: iskola@njszg.hu 
+## ❓ FAQ
 
-Megközelíthetõ az Örs vezér térről a 81-es trolibusszal. Az "Ond vezér park" megállótól jobbra található az iskola.
+- **Should I study more?**
+  - It’s advisable to maintain a consistent study routine. Regular revision helps in retaining information better.
 
+- **Do I get more homework?**
+  - Homework volume may vary by subject. Stay organized and seek clarification from teachers if the workload becomes overwhelming.
 
- 
+## 📞 Contact Details
 
-Vezetőség:
-Igazgató: Menyhárt Erika (vezetői pályázat 2021.) 
-Tanuló átvétel/felvétel
-Munkaügy
-PR-tevékenység
-Általános tájékoztatás
- 
+- **OM Identifier**: 203058/007
+- **Institution Code**: 051404
+- **Address**: 1144 Budapest, Kerepesi út 124 🏢
+- **Phone**: 06-70-502-1256
+- **Email**: iskola@njszg.hu 📧
 
-Igazgatóhelyettes: Kaufmann Péter 
-Felvételi eljárás, szóbeli felvételi szervezése
-Mérések
-Idegennyelv oktatása
- 
+The school can be accessed via the 81 trolleybus from Örs vezér tér. It is located to the right after the "Ond vezér park" stop.
 
-Igazgatóhelyettes: Stéberné Urbán Anna
-Érettségi szervezés
-Pályaorientációs programok
-Közismereti vizsgák szervezése
-E-kréta adminisztráció
-Duális partneri kapcsolattartó
- 
+## 👨‍💼 Administration
 
-Igazgatóhelyettes: Zádori Gabriella
-Felvételi eljárás, írásbeli felvételi szervezése
-Diákjóléti ügyek
-Nevelési ügyek
-Gólyatábor
- 
+- **Principal**: Menyhárt Erika
+  - Responsibilities: Leadership, student admission, public relations.
 
-Igazgatóhelyettes: Szakály Zoltán 
-Felnőttoktatás és felnőttképzés szervezés
-Ágazati alapvizsga szervezés
-Szakmai vizsga szervezés
-E-kréta adminisztráció
- 
+- **Vice Principal**: Kaufmann Péter
+  - Responsibilities: Admission procedures, foreign language instruction.
 
- 
+- **Vice Principal**: Stéberné Urbán Anna
+  - Responsibilities: Exam organization, career orientation programs.
 
-Iskolatitkár elérhetőségei:
-Horváthné Komlósi Ildikó
-telefonszám: 06-70-502-1230,
-e‑mail: komlosi pont ildiko kukac njszg pont hu
-Iskolalátogatási/ jogviszonyigazolás
-Iskolai iratok másodlata
-Igazgatói megbeszéléshez időpont-egyeztetés
- 
+- **Vice Principal**: Zádori Gabriella
+  - Responsibilities: Written admission procedures, student welfare.
 
-Gazdasági ügyintéző:
-Fraknóyné Borsi Anett
-e-mail: fraknoyne pont borsi pont anett kukac njszg pont hu
- 
- 
-Tiszta Szívvel Alapítvány: 18159037-1-42
+- **Vice Principal**: Szakály Zoltán
+  - Responsibilities: Adult education organization, professional exam organization.
 
-Térkép >>>
+## 📋 Administrative Contact
 
- 
+- **School Secretary**: Horváthné Komlósi Ildikó
+  - **Phone**: 06-70-502-1230
+  - **Email**: komlosi.ildiko@njszg.hu
+  - Responsibilities: School documentation, appointment scheduling for principal meetings.
 
-Iskolánk a Budapesti Műszaki Szakképzési Centrum tagintézményeként működik 
+- **Financial Administrator**: Fraknóyné Borsi Anett
+  - **Email**: fraknoyne.borsi.anett@njszg.hu
 
- A Centrum vezetősége:
+## Additional Information ℹ️
 
-Kancellár: Viszkok Mihály +361/5858220
-Főgazgató: Csordás Katalin +361/5858220
-Gazdasági vezető, kancellárhelyettes: Jakobeyné Dékány Brigitta
- 
+- **Foundation ID**: 18159037-1-42
+- **Map**: [School Location](https://maps.app.goo.gl/vt1imEL9EZuwK6UL6)
 
-BMSZC közérdekű adatai:
+Neumann János Technikum operates as a member of the Budapest Technical Vocational Training Centre.
 
-Budapesti Műszaki Szakképzési Centrum
-Cím: 1149 Budapest, Várna utca 23.
-OM azonosító: 203058
-PIR szám: 831884
-Adószám: 15831880-2-42
+### 🏢 Centre Administration:
+
+- **Chancellor**: Viszkok Mihály
+  - **Phone**: +361/5858220
+
+- **Director**: Csordás Katalin
+  - **Phone**: +361/5858220
+
+- **Financial Director**: Jakobeyné Dékány Brigitta
+
+### 📊 BMSZC Public Data:
+
+- **Address**: 1149 Budapest, Várna utca 23.
+- **OM Identifier**: 203058
+- **PIR Number**: 831884
+- **Tax Number**: 15831880-2-42
