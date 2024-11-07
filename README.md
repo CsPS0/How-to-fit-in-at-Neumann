@@ -94,7 +94,7 @@ The school can be accessed via the 81 trolleybus from Örs vezér tér. It is lo
 - **Financial Administrator**: Fraknóyné Borsi Anett
   - **Email**: fraknoyne.borsi.anett@njszg.hu
 
-## Additional Information ℹ️
+## ℹ️ Additional Information
 
 - **Foundation ID**: 18159037-1-42
 - **Map**: [School Location](https://maps.app.goo.gl/vt1imEL9EZuwK6UL6)
